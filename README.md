@@ -24,6 +24,6 @@ Please check out the [About](https://tanujnotes.substack.com/p/olauncher-minimal
 
 License: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-Developer: [@tanujnotes](https://twitter.com/tanujnotes)
+Developer: [Mahesh G](https://github.com/mah35h95)
 
 Thank you and have a wonderful day!

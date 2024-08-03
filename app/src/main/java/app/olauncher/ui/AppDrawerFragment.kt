@@ -394,8 +394,10 @@ class AppDrawerFragment : Fragment() {
                 super.onScrolled(recyclerView, dx, dy)
                 val visiblePosition = linearLayoutManager.findFirstVisibleItemPosition()
                 val position = if (visiblePosition >= 0) visiblePosition else 0
-                val item = adapter.currentList[position]
-                viewModel.updateRangeDrawerCharacterList(item.appLabel.first().toString())
+                if (adapter.currentList.size > 0) {
+                    val item = adapter.currentList[position]
+                    viewModel.updateRangeDrawerCharacterList(item.appLabel.first().toString())
+                }
             }
         }
     }
