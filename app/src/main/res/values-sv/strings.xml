@@ -12,11 +12,6 @@
     <string name="black">Svart</string>
     <string name="white">Vit</string>
     <string name="change_default_launcher">Ändra förvald startskärmsapp</string>
-    <string name="privacy">Integritet</string>
-    <string name="share">Dela</string>
-    <string name="share_now">Dela nu</string>
-    <string name="rate">Betygsätt</string>
-    <string name="rate_now">Betygsätt nu</string>
     <string name="follow">Följ</string>
     <string name="email">E-post</string>
     <string name="donate">Donera</string>
@@ -54,10 +49,6 @@
     <string name="light">Ljust</string>
     <string name="welcome_to_olauncher_settings">Tips: Vår Om-sida har svar på alla dina frågor. Glöm inte det. :)
         \n\nTack.</string>
-    <string name="rate_us_message">Hejsan, du kommer inte att se detta meddelande igen.
-        \n\nOm du tycker att Olauncher är användbar, skulle du vänligen kunna lämna en 5-stjärnig recension? Det skulle göra oss väldigt glada. Tack!</string>
-    <string name="share_message">Vi behöver din hjälp! Förra året passerade vi en miljon nedladdningar. I år vill vi nå en miljon till, men vi kan inte göra det på egen hand.
-        \n\nKan du dela Olauncher med dina vänner? Olauncher behöver människor, och människor behöver Olauncher.</string>
     <string name="keyboard_message">Hejsan, tangentbordet är det snabbaste sättet att hitta och starta appar i Olauncher. Får vi be dig att behålla denna På i några dagar till innan du bestämmer dig?
         \n\nValet är alltid ditt.</string>
     <string name="digital_wellbeing_message">Om du vill ställa in tidsgränser för vissa appar, kan Digitalt välmående-funktionen i Android hjälpa dig att göra det.
@@ -123,8 +114,5 @@
     <string name="digital_wellbeing">Digitalt välmående</string>
     <string name="learn_more">Läs mer</string>
     <string name="did_you_know">Visste du?</string>
-    <string name="leave_a_review">Lämna en recension</string>
-    <string name="review_message">Olauncher är gratis och kommer alltid att vara det. Den har inga annonser. Den samlar inte in någon data. Viktigast av allt, det hjälper dig att minska din skärmtid och leva ett hälsosammare digitalt liv.
-          \n\nVi tycker att det är ett utmärkt beslut att byta till en minimalistisk startskärmsapp. Även om vi uppenbarligen är partiska, hoppas vi att du gillar upplevelsen. Vi vill gärna höra dina tankar!</string>
     <string name="alignment_changed">Placering ändrad ✅</string>
 </resources>

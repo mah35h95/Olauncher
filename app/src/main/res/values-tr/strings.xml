@@ -57,11 +57,6 @@
     <string name="black">Siyah</string>
     <string name="white">Beyaz</string>
     <string name="change_default_launcher">Varsayılan başlatıcıyı değiştir</string>
-    <string name="privacy">Mahremiyet</string>
-    <string name="share">Paylaşmak</string>
-    <string name="share_now">Paylaşmak</string>
-    <string name="rate">Oran</string>
-    <string name="rate_now">Oran</string>
     <string name="follow">Takip etmek</string>
     <string name="email">E-posta</string>
 
@@ -87,10 +82,6 @@
     <string name="dark">Karanlık</string>
     <string name="light">Işık</string>
     <string name="welcome_to_olauncher_settings">Alt kısımdaki Hakkında sayfamızda tüm sorularınızın yanıtları bulunmaktadır. unutma :)\n\nTeşekkür ederim.</string>
-    <string name="rate_us_message">Merhaba, bu mesajı bir daha görmeyeceksiniz.
-        \n\nOlauncher\'ı beğendiyseniz, lütfen bize 5 yıldız verebilir misiniz? Sıralamamızı yükseltmemize yardımcı oluyor ve bizi mutlu ediyor. Teşekkür ederim!</string>
-    <string name="share_message">Merhaba, yardımınıza ihtiyacımız var! Geçen yıl bir milyon indirmeyi geçtik. Bu yıl bir milyona daha ulaşmak istiyoruz ama bunu tek başımıza yapamayız.
-        \n\nOlauncher\'ı arkadaşlarınızla paylaşma nezaketini gösterir misiniz lütfen? Teşekkür ederim ve harika bir gün geçirmenizi dilerim!</string>
     <string name="keyboard_message">Merhaba, klavye, Olauncher\'da uygulamaları bulmanın ve başlatmanın en hızlı yoludur. Bunu birkaç gün daha Açık tutmanızı ve sonra karar vermenizi rica edebilir miyiz?
         \n\nSeçim her zaman senindir.</string>
     <string name="digital_wellbeing_message">Belirli uygulamalar için zaman sınırları belirlemek istiyorsanız Android\'in Dijital Denge özelliği bunu yapmanıza yardımcı olabilir.
@@ -123,7 +114,4 @@
     <string name="about_olauncher">Hakkında Olauncher</string>
     <string name="learn_more">Daha fazla bilgi edin</string>
     <string name="did_you_know">Biliyor musun?</string>
-    <string name="leave_a_review">İnceleme bırak</string>
-    <string name="review_message">Olauncher tamamen ücretsizdir ve her zaman ücretsiz olacaktır. Hiçbir reklamı yok. Hiçbir veri toplamaz. En önemlisi ekran başında geçirdiğiniz süreyi azaltmanıza ve daha sağlıklı bir dijital yaşam sürmenize yardımcı olur.
-        \n\nMinimal bir başlatıcıya geçmenin mükemmel bir karar olduğuna inanıyoruz. Açıkça ön yargılı olsak da, bu deneyimden keyif alacağınızı umuyoruz. Düşüncelerinizi bizimle paylaşmaktan çekinmeyin!</string>
 </resources>

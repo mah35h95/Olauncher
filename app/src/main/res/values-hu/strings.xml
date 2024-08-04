@@ -11,11 +11,6 @@
     <string name="black">Fekete</string>
     <string name="white">Fehér</string>
     <string name="change_default_launcher">Alapértelmezett indító módosítása</string>
-    <string name="privacy">Adatvédelem</string>
-    <string name="share">Megosztás</string>
-    <string name="share_now">Megosztás most</string>
-    <string name="rate">Értékelés</string>
-    <string name="rate_now">Értékelés most</string>
     <string name="follow">Követés</string>
     <string name="email">E-mail</string>
     <string name="donate">Adományozás</string>
@@ -53,12 +48,6 @@
     <string name="light">Világos</string>
     <string name="welcome_to_olauncher_settings">A Névjegy oldalunk alján megtalálja a válaszokat minden kérdésére. Ne feledje el. :)
             \n\nKöszönjük!</string>
-    <string name="rate_us_message">Üdv, ezt az üzenetet nem fogja újra látni.
-            \n\nHa tetszik az Olauncher, kérjük, adjon nekünk 5 csillagos értékelést! Ez segít javítani a helyezésünket, és nagyon boldoggá tesz minket. Köszönjük!</string>
-<!--    <string name="share_message">Sziasztok, segítségre van szükségünk! Tavaly átléptük az egymillió letöltést. Idén egy millióval többet szeretnénk elérni, de egyedül nem tudjuk megtenni.-->
-<!--        \n\nLenne szíves megosztani az Olaunchert a barátaival, kérem? Köszönöm és további szép napot!</string>-->
-    <string name="share_message">Az Ön havi emlékeztetője - használja Ön a telefonját, és ne a telefonja Önt! Csak így tovább! Nagyszerűen csinálja!
-        \n\nHa van egy kis ideje, kérjük, ossza meg másokkal is az Olauncher-t. Az Olauncher-nek szüksége van emberekre. De ami még fontosabb, az embereknek szüksége van az Olauncher-re..</string>
     <string name="keyboard_message">Üdv, a billentyűzet a leggyorsabb módja az alkalmazások megtalálásához és elindításához az Olauncherben. Megkérhetjük, hogy hagyja bekapcsolva még néhány napig, és utána döntsön?
             \n\nA választás mindig az Öné.</string>
     <string name="digital_wellbeing_message">Ha időkorlátokat szeretne beállítani bizonyos alkalmazásokhoz, az Android Digital Wellbeing funkciója segíthet ebben.
@@ -126,8 +115,5 @@
     <string name="digital_wellbeing">Digitális jóllét</string>
     <string name="learn_more">Tudjon meg többet</string>
     <string name="did_you_know">Tudta?</string>
-    <string name="leave_a_review">Hagyjon véleményt</string>
-    <string name="review_message">Az Olauncher teljesen ingyenes és mindig is ingyenes lesz. Nincsenek hirdetései. Nem gyűjt adatokat. A legfontosabb, hogy segít csökkenteni a képernyő előtt töltött időt és egészségesebb digitális életet élni.
-        \n\nÚgy gondoljuk, hogy a minimális indítóra váltás kiváló döntés. Bár nyilvánvalóan elfogultak vagyunk, reméljük, hogy élvezni fogja az élményt. Nyugodtan ossza meg velünk gondolatait!</string>
     <string name="alignment_changed">Az igazítás megváltozott ✅</string>
 </resources>

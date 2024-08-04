@@ -33,7 +33,6 @@ class Prefs(context: Context) {
     private val SHOW_HINT_COUNTER = "SHOW_HINT_COUNTER"
     private val APP_THEME = "APP_THEME"
     private val ABOUT_CLICKED = "ABOUT_CLICKED"
-    private val RATE_CLICKED = "RATE_CLICKED"
     private val SHARE_SHOWN_TIME = "SHARE_SHOWN_TIME"
     private val SWIPE_DOWN_ACTION = "SWIPE_DOWN_ACTION"
     private val TEXT_SIZE_SCALE = "TEXT_SIZE_SCALE"
@@ -192,10 +191,6 @@ class Prefs(context: Context) {
     var aboutClicked: Boolean
         get() = prefs.getBoolean(ABOUT_CLICKED, false)
         set(value) = prefs.edit().putBoolean(ABOUT_CLICKED, value).apply()
-
-    var rateClicked: Boolean
-        get() = prefs.getBoolean(RATE_CLICKED, false)
-        set(value) = prefs.edit().putBoolean(RATE_CLICKED, value).apply()
 
     var shareShownTime: Long
         get() = prefs.getLong(SHARE_SHOWN_TIME, 0L)
