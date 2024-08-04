@@ -160,7 +160,7 @@ class SettingsFragment : Fragment(), View.OnClickListener, View.OnLongClickListe
                 requireActivity().rateApp()
             }
 
-            R.id.twitter -> requireContext().openUrl(Constants.URL_GITHUB_MG)
+            R.id.developer -> requireContext().openUrl(Constants.URL_GITHUB_MG)
             R.id.github -> requireContext().openUrl(Constants.URL_OLAUNCHER_GITHUB)
             R.id.privacy -> requireContext().openUrl(Constants.URL_OLAUNCHER_PRIVACY)
             R.id.footer -> requireContext().openUrl(Constants.URL_PLAY_STORE_DEV)
@@ -232,7 +232,7 @@ class SettingsFragment : Fragment(), View.OnClickListener, View.OnLongClickListe
 
         binding.share.setOnClickListener(this)
         binding.rate.setOnClickListener(this)
-        binding.twitter.setOnClickListener(this)
+        binding.developer.setOnClickListener(this)
         binding.github.setOnClickListener(this)
         binding.privacy.setOnClickListener(this)
         binding.footer.setOnClickListener(this)
